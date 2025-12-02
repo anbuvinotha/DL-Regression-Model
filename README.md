@@ -1,4 +1,4 @@
-<img width="635" height="344" alt="image" src="https://github.com/user-attachments/assets/add5f301-fbe0-4162-a9e3-3691eca4a969" /># Developing a Neural Network Regression Model
+# Developing a Neural Network Regression Model
 
 ## AIM
 To develop a neural network regression model for the given dataset.
