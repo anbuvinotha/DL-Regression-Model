@@ -1,4 +1,4 @@
-# Developing a Neural Network Regression Model
+<img width="635" height="344" alt="image" src="https://github.com/user-attachments/assets/add5f301-fbe0-4162-a9e3-3691eca4a969" /># Developing a Neural Network Regression Model
 
 ## AIM
 To develop a neural network regression model for the given dataset.
@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:BHAVATHARANI S
+### Name:ANBU VINOTHA S
 
-### Register Number:212223230032
+### Register Number:212223230015
 
 
 
@@ -153,8 +153,10 @@ Best Fit line plot
 
 
 
-### New Sample Data Prediction
-<img width="1103" height="108" alt="image" src="https://github.com/user-attachments/assets/cce0bd5d-cb95-4eae-b363-15f0d9382a3f" />
+### New Sample Data Prediction:
+<img width="635" height="344" alt="image" src="https://github.com/user-attachments/assets/a5b38710-99b2-4196-8113-7e870ec3ba0b" />
+
+
 
 
 ## RESULT
