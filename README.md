@@ -43,6 +43,7 @@ Use the trained model to predict  for a new input value .
 ### Name:ANBU VINOTHA S
 
 ### Register Number:212223230015
+'''
 
 
 
@@ -133,7 +134,7 @@ plt.ylabel('y')
 plt.title('Trained Model: Best-Fit Line')
 plt.legend()
 plt.show()
-
+'''
 
 
 
